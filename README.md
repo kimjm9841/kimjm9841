@@ -32,11 +32,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<!--
-<div align=center>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjm9841&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>-->
 <div align=center>
 	<h3>🏅 Solved.ac Profile 🏅</h3>
 	<a href="https://solved.ac/profile/kimjm9841">
